@@ -1,0 +1,14 @@
+# Files and directories created by pub and dart tools
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# Directory created by dartdoc
+doc/api/
+
+# Coverage directory
+coverage/
+
+# OS / Editor files
+.DS_Store
